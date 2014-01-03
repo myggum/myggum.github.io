@@ -15,6 +15,7 @@ I am curious about many things: economy, society, household, politics, computer,
 
 Let's see how this works.
 
+
 ## Posts
 
 <ul class="posts">
