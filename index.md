@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Let's fly!
 tagline: Supporting tagline
 ---
