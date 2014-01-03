@@ -8,7 +8,9 @@ tagline:
 ## Hello
 
 This is myggum's blog on Github.
+
 I am a graduate student studying economics.
+
 I am curious about many things: economy, society, household, politics, computer, programming, etc.
 
 Let's see how this works.
