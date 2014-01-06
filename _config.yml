@@ -1,10 +1,10 @@
 title:        Let's Fly
 tagline:      ''
-description:  ''
+description:  'A blog about many things.'
 url:          http://myggum.github.io
 version:      1.1.1
 author:
-  name:       'Hyeongsuk Jin'
+  name:       'myggum'
   email:      ''
 markdown:     rdiscount
 permalink:    pretty
