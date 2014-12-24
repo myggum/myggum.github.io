@@ -9,7 +9,7 @@ Tag list 를 Github page에서 구현하기 위해서 (Github page에서 tag clo
 
 만나서 반갑습니다.
 
-{{ page.date | date_to_string }}, 내껌
+2014. 12. 23, 내껌
 
 
 
@@ -27,4 +27,4 @@ Nice to meet you.
 
 Open sourced under the [MIT license](LICENSE.md), following the original license of [Poole](https://github.com/poole/poole).
 
-{{ page.date | date_to_string }}, myggum
+2014. 12. 23, myggum
