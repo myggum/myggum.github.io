@@ -2,6 +2,8 @@
 layout: post
 title: 포기하지 않으면 꿈은 이루어진다.
 date: 2014-02-25 11:09:43
+tags: 삐딱하게
+disqus: y
 ---
 
 

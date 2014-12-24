@@ -1,63 +1,30 @@
-Scribble
-========
+# 내껌의 블로그.
 
-A jekyll theme. [Want a demo? click and read instruction. :point_left:](http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/)
-<br />
-[More themes](https://github.com/muan/muan.github.com/releases).
+직접 쓴, 혹은 발견한 다른 글들의 링크, 또는 글귀를 모아둔 개인 [블로그](http://myggum.github.io)입니다.
 
-![screenshot](http://scribble.muan.co/images/screenshot.png)
+다양한 블로그 플랫폼들을 사용해 보다가, [Jekyll](http://jekyllrb.com)을 이용한 블로그를 시도해 보기로 합니다.
 
-There is no clever design philosophy to talk about, I tried to find something to work with, and 'scribble' came to my mind. 
+이 블로그는 현재 [Poole](https://github.com/poole/poole)을 기반으로 제작되었습니다.
+Tag list 를 Github page에서 구현하기 위해서 (Github page에서 tag cloud 등을 구현하기 위한 Jekyll plugin 은 현재까지 사용이 제한되어 있습니다.) Stephan이 자신의 블로그 [minddust](http://www.minddust.com/post/tags-and-categories-on-github-pages/)에 공개한 코드들과, [Joe Kampschmidt](http://www.jokecamp.com/blog/listing-jekyll-posts-by-tag/)의 snippet을 조합해 사용했음을 밝힙니다.
 
-This theme uses Open Sans powered by Google Web Fonts, and was written in plain HTML, SCSS & CoffeeScript, though .scss & .coffee files wouldn't be included in the theme. 
+만나서 반갑습니다.
 
-The theme is mobile optimised but I did not check browser compatibility. It looks great in Chrome, Safari and Firefox though.
+{{ page.date | date_to_string }}, 내껌
 
----
 
-### Get started
 
-1. [Fork the repository](https://github.com/muan/scribble/fork).
-2. Clone the repository to your computer.<br /> `git clone https://github.com/username/scribble`
-3. `bundle install`
-4. **Using older versions of Jekyll**<br />
-  Build and run jekyll using `jekyll --server --auto`.<br />
-  **Using [Jekyll 1.0](http://blog.parkermoore.de/2013/05/06/jekyll-1-dot-0-released/)**<br />
-  Build Jekyll using `jekyll build`.<br />
-  Then run Jekyll using `jekyll serve --watch`, go to http://localhost:4000 for your site.
+# myggum's blog.
 
----
+This [blog](http://myggum.github.io) (sorry, blog posts are written in Korean) is a collection of scribbles, links to interesting writings, or quotations.
 
-### Make it yours
+This blog is using [Poole](https://github.com/poole/poole) with a little customization.
 
-1. I have extract most user specific information to `_config.yml`, you should be able to set up almost everything from it.
-2. Change about.md for blog intro.
-3. For domain settings, see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages).
+To have the [tag list](http://myggum.github.io/tags), which is not implemented in Github yet due to their restrictions on Jekyll plugin, I combined Stephan's codes in his blog [minddust](http://www.minddust.com/post/tags-and-categories-on-github-pages/) and a nice snippet by [Joe Kampschmidt](http://www.jokecamp.com/blog/listing-jekyll-posts-by-tag/).
 
----
+Nice to meet you.
 
-### GitHub Pages stuff
+## License
 
-The `gh-pages` branch of this repository is [the project page](http://scribble.muan.co), which **should not** be used as your blog, so use `master` branch for your blog. This is assuming your blog repository will be called [your-username].github.io, if tis is not the case, you will need to delete the `gh-pages` repository and create a branch off the `master` branch. Hope that's clear.
+Open sourced under the [MIT license](LICENSE.md), following the original license of [Poole](https://github.com/poole/poole).
 
----
-
-### Options
-
-When writing a post, there are 3 options you can add to the header.
-
-1. **disqus: y**<br />
-  If disqus is set to 'y', at the end of the post there will be a disqus thread, just like this one. To use disqus, you MUST [set up your own disqus account](http://disqus.com/).
-
-2. **share: y**<br />
-  An option for showing tweet and like button under a post.
-
-3. **date**: 2013-05-06 18:07:17<br />
-  Date is not a required header since Jekyll reads the file name for date, this was added in only for the **signoff time**. (as shown at the end of this post) If you don't want the signoff time, go into `/includes/signoff.html` remove the `<span>`, and remove `{% include signoff.html %}` from `/layouts/post.html`.
-
----
-
-### The end
-
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
+{{ page.date | date_to_string }}, myggum

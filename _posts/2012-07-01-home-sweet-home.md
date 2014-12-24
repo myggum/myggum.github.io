@@ -2,6 +2,8 @@
 layout: post
 title: Home, sweet home.
 date: 2012-07-01 08:45:51
+tags: 일상
+disqus: y
 ---
 
 서울에 왔다. 10개월만에.

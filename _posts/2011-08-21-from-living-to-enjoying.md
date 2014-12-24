@@ -2,6 +2,8 @@
 layout: post
 title: 캐나다에서 from living to enjoying
 date: 2011-08-21 02:41:21
+tags: 일상
+disqus: y
 ---
 
 캐나다로 유학을 나왔다.

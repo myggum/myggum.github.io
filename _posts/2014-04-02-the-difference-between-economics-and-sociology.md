@@ -2,6 +2,8 @@
 layout: post
 title: The difference between economics and sociology
 date: 2014-04-02 15:39:51
+tags: quotation
+disqus: n
 ---
 
 Pollak (Review of Economics of the Household, 2003) 

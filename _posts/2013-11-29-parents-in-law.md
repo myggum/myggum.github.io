@@ -2,6 +2,8 @@
 layout: post
 title: 시월드
 date: 2013-11-29 00:45:05
+tags: 단상
+disqus: y
 ---
 
 문득 네이버 웹툰 ‘[아랫집 시누이](http://comic.naver.com/webtoon/list.nhn?titleId=563782)’를 보다 든 생각.

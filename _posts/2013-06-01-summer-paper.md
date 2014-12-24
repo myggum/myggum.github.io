@@ -2,6 +2,8 @@
 layout: post
 title: Summer paper or second year paper
 date: 2013-06-01 00:17:59
+tags: 일상
+disqus: y
 ---
 
 2년차 Course work 을 마치고, 요즘은 summer paper, 다른 학교들에선 second-year paper 라고 불리는 첫 paper 를 쓰고 있다.

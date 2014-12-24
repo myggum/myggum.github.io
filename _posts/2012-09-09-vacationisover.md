@@ -2,6 +2,8 @@
 layout: post
 title: 방학이 다 끝났다.
 date: 2012-09-09 20:01:27
+tags: 일상
+disqus: y
 ---
 
 방학이 다 끝났다.

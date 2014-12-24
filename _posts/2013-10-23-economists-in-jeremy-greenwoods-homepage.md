@@ -2,6 +2,7 @@
 layout: post
 title: Economists in Jeremy Greenwood's homepage
 date: 2013-10-23 15:54:29
+disqus: y
 ---
 
 [Jeremy Greenwood 의 홈페이지](http://www.jeremygreenwood.net)에 갈때마다, 거기 배경화면과 곳곳에 있는 다양한 (경제학자라고 생각된) 사진 속 인물들이 누군지 궁금했는데, 오늘 다 알아냈다.

@@ -1,26 +1,39 @@
-title:            Let's fly
-description:      Collection of my scribbles
-url:              # Site url.
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
-
-links:
-  - name:         About
-    url:          /about
-  - name:         Archive
-    url:          /archive
-    # external:     true
-  # - name:         Email
-  #   url:          mailto:hello@muan.co
-  #   external:     true
-  # - name:         GitHub
-  #   url:          http://github.com/muan
-  #   external:     true
-highlighter:      pygments
-permalink:        pretty
+# Dependencies
 markdown:         redcarpet
 redcarpet:
-  extensions:
-    - smart
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Let's fly
+tagline:          
+description:      Collection of my scribbles
+url:              http://myggum.github.io
+disqus_shortname: myggumongithub
+
+
+author:
+  name:           myggum
+  url:
+  picture: 
+
+pages_list:       
+    About: '/about'
+    Archive: '/archive'
+    Tags: '/tags'
+    Feed: '/atom.xml'
+    # C.V.: '/cv'
+    # Research: '/research'
+
+
+
+# paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/poole

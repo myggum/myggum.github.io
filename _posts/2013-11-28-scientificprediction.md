@@ -2,6 +2,8 @@
 layout: post
 title: 과학적 예측
 date: 2013-11-28 21:53:58
+tags: 단상
+disqus: y
 ---
 
 ### ['금세기 최고 밝기' 아이손 혜성, 태양과 만난 후 소멸(종합)](http://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=277&aid=0003141445)
